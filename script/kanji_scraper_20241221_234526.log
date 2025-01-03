@@ -1,0 +1,19 @@
+2024-12-21 23:45:26,322 - INFO - Starting kanji scraper
+2024-12-21 23:45:26,323 - INFO - Processing URLs 1 to 5
+2024-12-21 23:45:26,649 - INFO - Extracted 80 kanji from https://kanji.jitenon.jp/cat/kyu10
+2024-12-21 23:45:26,669 - INFO - Extracted 160 kanji from https://kanji.jitenon.jp/cat/kyu09
+2024-12-21 23:45:26,688 - INFO - Extracted 200 kanji from https://kanji.jitenon.jp/cat/kyu08
+2024-12-21 23:45:26,707 - INFO - Extracted 202 kanji from https://kanji.jitenon.jp/cat/kyu07
+2024-12-21 23:45:26,725 - INFO - Extracted 193 kanji from https://kanji.jitenon.jp/cat/kyu06
+2024-12-21 23:45:27,749 - INFO - Processing URLs 6 to 10
+2024-12-21 23:45:27,958 - INFO - Extracted 191 kanji from https://kanji.jitenon.jp/cat/kyu05
+2024-12-21 23:45:27,982 - INFO - Extracted 313 kanji from https://kanji.jitenon.jp/cat/kyu04
+2024-12-21 23:45:28,003 - INFO - Extracted 284 kanji from https://kanji.jitenon.jp/cat/kyu03
+2024-12-21 23:45:28,022 - INFO - Extracted 193 kanji from https://kanji.jitenon.jp/cat/kyu02
+2024-12-21 23:45:28,124 - INFO - Extracted 2797 kanji from https://kanji.jitenon.jp/cat/kyu01
+2024-12-21 23:45:29,139 - INFO - Processing URLs 11 to 13
+2024-12-21 23:45:29,353 - INFO - Extracted 328 kanji from https://kanji.jitenon.jp/cat/kyu02j
+2024-12-21 23:45:29,399 - INFO - Extracted 942 kanji from https://kanji.jitenon.jp/cat/kyu01j
+2024-12-21 23:45:29,424 - INFO - Extracted 416 kanji from https://kanji.jitenon.jp/cat/kyu0101j
+2024-12-21 23:45:30,454 - INFO - Results saved to kanji_data_20241221_234530.json
+2024-12-21 23:45:30,455 - INFO - Scraping completed
